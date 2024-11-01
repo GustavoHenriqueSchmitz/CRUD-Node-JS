@@ -22,12 +22,12 @@ npm i
 **3 -** Install [docker-compose](https://docs.docker.com/compose/install/)
 
 ## Initializing
-**1 -** Go to the root directory of the project and execute:
+**1 -** Go to the root directory of the project and run:
 ```
 docker-compose up
 ```
 
-**2 -** After it, open another terminal and execute in the same directory:
+**2 -** After it, open another terminal and run in the same directory:
 ```
 node main.js
 ```
